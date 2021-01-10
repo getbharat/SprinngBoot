@@ -1,2 +1,2 @@
 # bootDemo
-Spring boot projects.
+Spring boot project.
